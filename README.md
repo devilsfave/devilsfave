@@ -1,34 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api? type=waving&color=0: 0d1117,50:161b22,100:00d9ff&height=120&section=header"/>
-
-<div align="center">
-  
-# Herbert Kwame Yeboah
-
-[![Typing SVG](https://readme-typing-svg.demolab.com? font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Software+Engineer+%7C+AI%2FML+Developer;Building+Intelligent+Systems+for+Healthcare;Transforming+Ideas+into+Production+Code)](https://git.io/typing-svg)
-
-<p>
-  <a href="https://github.com/devilsfave? tab=followers">
-    <img src="https://img.shields.io/github/followers/devilsfave?label=Followers&style=social" alt="GitHub followers">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=devilsfave&label=Profile+Views&color=00d9ff&style=flat" alt="Profile views"/>
-  <a href="mailto:herbertyeboah123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-herbertyeboah123%40gmail.com-00d9ff?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-</div>
-
----
-
-## 🧬 About Me
-
-```python
-class SoftwareEngineer: 
+<img width="100%" src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:0d1117,50:161b22,100:00d9ff%26height%3D120%26section%3Dheader"/><div align="center">Herbert Kwame Yeboah<p><a href="https://www.google.com/search?q=https://github.com/devilsfave%3Ftab%3Dfollowers"><img src="https://img.shields.io/github/followers/devilsfave?label=Followers&style=social" alt="GitHub followers"></a><img src="https://komarev.com/ghpvc/?username=devilsfave&label=Profile+Views&color=00d9ff&style=flat" alt="Profile views"/><a href="mailto:herbertyeboah123@gmail.com"><img src="https://img.shields.io/badge/Email-herbertyeboah123%40gmail.com-00d9ff?style=flat&logo=gmail&logoColor=white" alt="Email"/></a></p></div>🧬 About Me📍
+Based in Ghana 🇬🇭 | 🎓 BSc Computer Science (2024)
+I am a Software Engineer & AI/ML Developer passionate about transforming complex ideas into production-ready code.
+My foundation blends high-performance software engineering with expertise in Machine Learning, allowing me to build end-to-end intelligent systems.My current primary focus is developping AI-powered Solutions.
+Core Stack SummaryLanguages: Python, TypeScript, JavaScript, SQL, C++, JavaAI & ML: TensorFlow, Keras, Scikit-learn, NumPy, PandasWeb: Next.js, React, Node.js, Flask, Tailwind CSSCloud: Google Cloud, Firebase, Docker, Railway<!-- DEVELOPER CODE VIEW -->class SoftwareEngineer: 
     def __init__(self):
         self.name = "Herbert Kwame Yeboah"
-        self. role = "Software Engineer & AI/ML Developer"
+        self.role = "Software Engineer & AI/ML Developer"
         self.location = "Ghana 🇬🇭"
-        self. education = "BSc Computer Science - UENR (2024)"
+        self.education = "BSc Computer Science - UENR (2024)"
         self.current_focus = "AI-powered Healthcare Solutions"
         
     def get_skills(self):
@@ -48,188 +27,9 @@ class SoftwareEngineer:
         ]
 
 me = SoftwareEngineer()
-```
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilsfave&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true" width="95%"/>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔬 [DermaVision AI](https://github.com/devilsfave/Dermavision_AI)
-**AI-Powered Skin Disease Classification System**
-
-Deep learning platform democratizing dermatological care across Africa using advanced neural networks. 
-
-**Technical Highlights:**
-- MobileNetV2 + Spatial Transformer Network
-- 87. 27% validation accuracy (HAM10000)
-- TensorFlow Lite mobile deployment
-- Full-stack telemedicine platform
-
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎰 [Frankenstein](https://github.com/devilsfave/Frankenstein)
-**Algorithmic Trading & Risk Management Engine**
-
-Production-ready system demonstrating advanced mathematical optimization and real-time data processing.
-
-**Technical Highlights:**
-- Real-time probability calculations
-- Async architecture (asyncio/aiohttp)
-- Multi-layered risk assessment
-- Docker + Railway deployment
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED? style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/asyncio-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Technology Arsenal
-
-<div align="center">
-
-### Languages & Core
-<p>
-<img src="https://skillicons.dev/icons? i=python,typescript,javascript,java,cpp,cs&theme=dark" />
-</p>
-
-### AI/ML & Data Science
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-### Web Development
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,flask,tailwind,html,css&theme=dark" />
-</p>
-
-### Cloud & DevOps
-<p>
-<img src="https://skillicons.dev/icons? i=gcp,firebase,docker,git,linux,bash&theme=dark" />
-</p>
-
-### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
-</p>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devilsfave&show_icons=true&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=30363d&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats. vercel.app/api/top-langs/? username=devilsfave&layout=compact&theme=react&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_color=30363d&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/? user=devilsfave&theme=react&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&border=30363d" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devilsfave/devilsfave/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devilsfave/devilsfave/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devilsfave/devilsfave/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/? username=devilsfave&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📜 Certifications & Education
-
-<div align="center">
-
-| 🎓 Credential | 🏛️ Institution | 📅 Year |
-|:-------------:|:-------------:|:-------:|
-| **BSc Computer Science** | University of Energy & Natural Resources | 2024 |
-| **AI Career Essentials** | ALX Africa | July 2024 |
-| **Software Engineering** | ALX Africa | June 2024 |
-| **SQL Masterclass** | Udemy | 2024 |
-
-</div>
-
----
-
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 45 mins  ███████████░░░░░░░  45. 2%
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=devilsfave&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true" width="95%"/></div>🚀 Featured Projects<table><tr><td width="50%" valign="top">🔬 DermaVision AIAI-Powered Skin Disease Classification SystemDeep learning platform democratizing dermatological care across Africa using advanced neural networks.Technical Highlights:MobileNetV2 + Spatial Transformer Network87.27% validation accuracy (HAM10000)TensorFlow Lite mobile deploymentFull-stack telemedicine platform<p><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/><img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/></p></td><td width="50%" valign="top">🎰 FrankensteinAlgorithmic Trading & Risk Management EngineProduction-ready system demonstrating advanced mathematical optimization and real-time data processing.Technical Highlights:Real-time probability calculationsAsync architecture (asyncio/aiohttp)Multi-layered risk assessmentDocker + Railway deployment<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dflat-square%26logo%3Ddocker%26logoColor%3Dwhite"/><img src="https://img.shields.io/badge/asyncio-3776AB?style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/></p></td></tr></table>🛠️ Technology Arsenal<div align="center">Languages & Core<p><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,typescript,javascript,java,cpp,cs%26theme%3Ddark" /></p>AI/ML & Data Science<p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" /><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></p>Web Development<p><img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,flask,tailwind,html,css&theme=dark" /></p>Cloud & DevOps<p><img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgcp,firebase,docker,git,linux,bash%26theme%3Ddark" /></p>Databases<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" /></p></div>📊 GitHub Analytics<div align="center"><!-- GitHub Stats and Top Languages Side-by-Side (Fixed) --><img height="180em" src="https://github-readme-stats.vercel.app/api?username=devilsfave&show_icons=true&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=30363d&include_all_commits=true&count_private=true"/>&nbsp; &nbsp;<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Ddevilsfave%26layout%3Dcompact%26theme%3Dreact%26bg_color%3D0d1117%26title_color%3D00d9ff%26text_color%3Dc9d1d9%26border_color%3D30363d%26langs_count%3D8"/></div><div align="center"><!-- GitHub Streak (Fixed) --><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Ddevilsfave%26theme%3Dreact%26background%3D0d1117%26ring%3D00d9ff%26fire%3D00d9ff%26currStreakLabel%3D00d9ff%26border%3D30363d" alt="GitHub Streak"/></div><div align="center"><!-- GitHub Snake Animation --><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devilsfave/devilsfave/output/github-contribution-grid-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devilsfave/devilsfave/output/github-contribution-grid-snake.svg"><img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devilsfave/devilsfave/output/github-contribution-grid-snake.svg"></picture></div>🏆 Achievements & Trophies<div align="center"><!-- GitHub Trophies (Fixed) --><img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Ddevilsfave%26theme%3Dalgolia%26no-frame%3Dtrue%26no-bg%3Dtrue%26column%3D7%26margin-w%3D5%26margin-h%3D5" alt="GitHub Trophies"/></div>📜 Certifications & Education<div align="center">🎓 Credential🏛️ Institution📅 YearBSc Computer ScienceUniversity of Energy & Natural Resources2024AI Career EssentialsALX AfricaJuly 2024Software EngineeringALX AfricaJune 2024SQL MasterclassUdemy2024</div>📈 Weekly Development Breakdown<!--START_SECTION:waka-->Python       12 hrs 45 mins  ███████████░░░░░░░  45.2%
 TypeScript   8 hrs 30 mins   ███████░░░░░░░░░░░  30.1%
 JavaScript   3 hrs 15 mins   ███░░░░░░░░░░░░░░░  11.5%
 SQL          2 hrs 10 mins   ██░░░░░░░░░░░░░░░░   7.7%
 Other        1 hr 30 mins    █░░░░░░░░░░░░░░░░░   5.5%
-```
-<!--END_SECTION: waka-->
-
----
-
-## 🌍 Connect With Me
-
-<div align="center">
-  
-<a href="mailto:herbertyeboah123@gmail. com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://linkedin.com/in/herbert-yeboah">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/devlin_39">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://github.com/devilsfave">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-  
-### 💡 *"Leveraging AI to democratize access to healthcare across Africa"*
-
-<img src="https://quotes-github-readme.vercel. app/api?type=horizontal&theme=algolia" alt="Dev Quote"/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d9ff&height=120&section=footer"/>
+<!--END_SECTION:waka-->🌍 Connect With Me<div align="center"><a href="mailto:herbertyeboah123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a><a href="https://linkedin.com/in/herbert-yeboah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="https://instagram.com/devlin_39"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a><a href="https://github.com/devilsfave"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a></div><div align="center">💡 "Leveraging AI to democratize access to healthcare across Africa"<img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Dalgolia" alt="Dev Quote"/></div><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d9ff&height=120&section=footer"/>
