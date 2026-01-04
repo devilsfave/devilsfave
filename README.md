@@ -2,7 +2,7 @@
 
 <div align="center">
   
-# Herbert Kwame Yeboah
+# ABBEY RONALD HERBERT
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Software+Engineer+%7C+AI%2FML+Developer;Building+Intelligent+Systems+That+Matter;Solving+Real-World+Problems+with+AI)](https://git.io/typing-svg)
 
