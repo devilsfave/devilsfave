@@ -61,6 +61,80 @@ I am a Software Engineer & AI/ML Developer passionate about transforming complex
 
 ## 🚀 Featured Projects
 
+---
+
+### ⭐ [DagPipe](https://github.com/devilsfave/dagpipe) — Flagship Project
+**Zero-Cost, Crash-Proof LLM Orchestration Framework**
+
+<p>
+  <img src="https://github.com/devilsfave/dagpipe/actions/workflows/test.yml/badge.svg" alt="Tests" />
+  <img src="https://github.com/devilsfave/dagpipe/actions/workflows/security.yml/badge.svg" alt="Security Audit" />
+  <img src="https://img.shields.io/pypi/v/dagpipe-core?color=FF4500&style=flat-square" alt="PyPI Version" />
+  <img src="https://img.shields.io/pypi/pyversions/dagpipe-core?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/github/license/devilsfave/dagpipe?style=flat-square&color=00d9ff" alt="License" />
+  <img src="https://img.shields.io/badge/MCP-Live-00d9ff?style=flat-square" alt="MCP" />
+  <img src="https://img.shields.io/badge/Smithery-Listed-FF4500?style=flat-square" alt="Smithery" />
+  <a href="https://www.bestpractices.dev/projects/12089"><img src="https://www.bestpractices.dev/projects/12089/badge" alt="OpenSSF Best Practices" /></a>
+</p>
+
+> NeurIPS 2025 research analyzing **1,642 real-world multi-agent execution traces** found a **41–86.7% failure rate** across 7 state-of-the-art open-source systems. The root cause: cascading error propagation. **DagPipe makes cascade failure structurally impossible.**
+
+The reliability layer that makes AI workflows safe to ship — crash recovery, schema validation, and intelligent cost routing — in 150 lines of Python. Runs entirely on **free-tier APIs. Zero infrastructure. Zero subscription.**
+
+```
+Pipeline: research → outline → draft → edit → publish
+                                  ↑
+                            crashed here
+
+Re-run → research ✓ (restored) → outline ✓ (restored) → draft (re-runs) → ...
+```
+
+**Technical Highlights:**
+
+| 🔴 Without DagPipe | 🟢 With DagPipe |
+|---|---|
+| Pipeline crashes = start over from zero | **JSON checkpointing**: resume from last successful node |
+| Paying for large models on every task | **Cognitive routing**: route easy tasks to free-tier models |
+| LLM returns malformed JSON | **Guaranteed structured output**: auto-retry with error feedback |
+| Tight coupling to one provider | **Provider-agnostic**: any Python callable works |
+| Silent bad data passes through | **Semantic assertions**: catch structurally valid but wrong output |
+| Complete failure context lost | **Dead Letter Queue**: every failure saved to disk automatically |
+
+**Key Features (v0.2.0):**
+- 🔁 **Crash Recovery** — JSON checkpointing per node; resume exactly where you stopped
+- 🧠 **Smart Model Router** — auto-selects model by task complexity; escalates on failure/rate-limit
+- 📋 **Constrained Generation** — Pydantic schema validation with auto-retry on malformed output
+- 🔒 **Context Isolation** — nodes only access their declared dependencies; safe for sensitive data
+- 🗂️ **Live Model Registry** — self-maintaining database of free-tier availability; refreshes every 24h
+- ⚙️ **Pluggable Checkpoint Backends** — swap filesystem for Redis, S3, or any custom store
+- 🌐 **MCP Server** — generate crash-proof pipelines via Claude Desktop, Cursor, or Windsurf
+
+**Test Coverage:** 108 tests · 5 modules · 0 regressions · Python 3.12 + 3.13
+
+**Available On:**
+
+<p>
+  <a href="https://pypi.org/project/dagpipe-core/"><img src="https://img.shields.io/badge/PyPI-dagpipe--core-FF4500?style=for-the-badge&logo=pypi&logoColor=white"/></a>
+  <a href="https://smithery.ai/server/gastronomic-desk/dagpipe-generator"><img src="https://img.shields.io/badge/Smithery-MCP_Server-00d9ff?style=for-the-badge"/></a>
+  <a href="https://apify.com/gastronomic_desk/pipeline-generator"><img src="https://img.shields.io/badge/Apify-Pipeline_Generator-1ABC9C?style=for-the-badge"/></a>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-FF4500?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-Live-00d9ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/MIT-License-green?style=flat-square"/>
+</p>
+
+```bash
+pip install dagpipe-core
+```
+
+---
+
 <table>
 <tr>
 <td width="50%" valign="top">
